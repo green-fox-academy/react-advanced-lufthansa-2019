@@ -1,0 +1,20 @@
+{
+  "Title": "Kalória számláló",
+  "MainPage": {
+    "TodayCaloriesTitle": "Mai kalóriák..."
+  },
+  "FoodForm": {
+    "Add": "Hozzáadás",
+    "Food": "Étel",
+    "Calories": "Kalória"
+  },
+  "MainFoodForm": {
+    "AddFood": "Étel hozzáadása"
+  },
+  "FoodTable": {
+    "Sum": "Összeg: {{Sum}}",
+    "Food": "Étel",
+    "Calories": "Kalória",
+    "NoFood": "Ma még nem ettél semmit"
+  }
+}
