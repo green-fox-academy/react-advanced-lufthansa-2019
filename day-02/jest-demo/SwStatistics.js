@@ -1,8 +1,8 @@
 import SwAPI from './SwAPI';
 
 export default class SwStatistics {
-    constructor() {
-        this.swAPI = new SwAPI();
+    constructor(swAPI) {
+        this.swAPI = swAPI || new SwAPI();
     }
 
     async count() {
